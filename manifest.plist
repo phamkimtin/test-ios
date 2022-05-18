@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>ChinhQuyenTraVinh/ChinhQuyenTraVinh.ipa</string>
+                    <string>https://phamkimtin.github.io/test-ios/ChinhQuyenTraVinh.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>vn.vnptit.digo.congchuctravinh</string>
                 <key>bundle-version</key>
-                <string>1.10</string>
+                <string>0.0.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
