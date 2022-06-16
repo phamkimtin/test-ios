@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>vn.vnptit.digo.congchuctravinh</string>
+                <string>vn.vnptit.digo.congdantravinh</string>
                 <key>bundle-version</key>
-                <string>0.0.1</string>
+                <string>1.5.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
